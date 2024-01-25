@@ -1,4 +1,3 @@
-```markdown
 # HealthPilot
 
 ## Overview
@@ -34,8 +33,8 @@ To get started with HealthPilot, follow these simple steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/WahyuSuryaPutra/Health-Pilot-Aplication.git
-   ```
+   git clone https://github.com/your-username/HealthPilot.git
+
 
 2. Install the required dependencies.
    ```bash
